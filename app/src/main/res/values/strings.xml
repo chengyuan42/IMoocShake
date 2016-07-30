@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">摇一摇</string>
+    <string name="main_txt_show_count">今天您还剩下1000次</string>
+</resources>
